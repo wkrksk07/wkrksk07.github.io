@@ -15,22 +15,22 @@ menu:
     url: /
   - #title: About
     #url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
-email: youremail@test.com
-disqus_username: disqus_username
+  - #title: Contact
+    #url: /contact
+  - #title: Feed
+    #url: /feed.xml
+email: #youremail@test.com
+disqus_username: wkrksk07
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: wkrksk07
+facebook_username: #facebook_username
+twitter_username: #twitter_username
+instagram_username: #instagram_username
+linkedin_username: #linkedin_username
+medium_username: #medium_username
 
 
 # Posts Settings
@@ -101,4 +101,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.0
+version: #v3.1.0
